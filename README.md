@@ -89,5 +89,5 @@ Based on the findings, the following strategies can help reduce attrition:
 This dashboard enables leadership to understand attrition patterns at a granular level and make data-driven decisions to enhance employee retention and satisfaction. The interactive nature of the dashboard empowers leadership to explore specific segments and create targeted strategies for improving employee engagement and reducing turnover.  
 
 ---
-
-👉 **[Explore the Dashboard](#)**  
+## 🔗 **Links**  
+- **[Medium Article](https://medium.com/@kumardeepaks2k/employee-attrition-analysis-key-insights-and-trends-14ec841cb630)**
